@@ -56,7 +56,7 @@ const Header = () =>{
                 <a href="https://www.thanoslu.com.br/cadastro">Entre ou Cadastre-se</a>
             </div>
 
-            <img src='https://ibb.co/QCKtQ0y' align='left' />
+            <img src='https://i.ibb.co/4YV3tkh/magalu2.png' align='left' />
             
             <span className='header-title'>
                 ThanosLu Friday
