@@ -9,7 +9,7 @@ export default function App() {
 
             <Card 
                 className='section bg-grey'
-                img='./pcgamer.PNG' 
+                img= "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSU0MFNUwVKoi66lC_soYouQfeTjMaaoybd1baupUCnA2hzaDtzxB-FHk9f3bAPTI8zUuDCsYL9kds&usqp=CAc"
                 title='PC Gamer '
                 description='PC gamer i7 8GB SSD 120GB Placa de video GT 710 2GB.'
                 price='R$ 2500,00'
@@ -17,7 +17,7 @@ export default function App() {
 
             <Card 
                 className='section'
-                img='./play5.PNG' 
+                img="https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTQqEmAPrpKeTouSI_RRoQ3g8D6LHUdm-LDpRw-3zNEkseRpZhnOibeqPNKqV1T3qhz3wwozfaXTViQ&usqp=CAc" 
                 title='Console Playstation 5 - Ps5' 
                 description='Console PlayStation 5 Versão com Disco, entretenimento garantido, 
                              Nova geração com SSD de alta velocidade, processador e memoria de alta performace e placa gráfica de ultima geração, novos desafios, 
@@ -27,7 +27,7 @@ export default function App() {
 
             <Card 
                 className='section bg-grey'
-                img='./play4.PNG' 
+                img='https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTy1L9KV-8gPRIWPvc4m6Y-DuMtcHWfBABE7zUe7lGqp6o8wrkK39s4yi1WjSQveBhVArARbsbDv_Q&usqp=CAc' 
                 title='Console PlayStation 4 Slim - 1TB' 
                 description='Console PlayStation 4 Slim 1TB Mega Pack 3 Jogos Fantásticos - 
                              Ghost of Tsushima + God of War + Ratchet & Clank + PSN Plus 3 Meses.'
@@ -36,7 +36,7 @@ export default function App() {
 
             <Card 
                 className='section'
-                img='./switch.PNG' 
+                img='https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRR1PCjjoE6Ri5ZwiMOyjBmSK9DkRIoIERdVKwn07Kw7-sZ-nGMyE8NPtYuPNmsD2IH3N-g8OxITA&usqp=CAc' 
                 title='Console Nintendo Switch - 32GB' 
                 description='Console Nintendo Switch - Base do Nintendo Switch - Joy-Con Azul/Vermelho (Esquerdo/Direito) - 
                              Suporte para Joy-Con - Alças Joy-Con - Cabo HDMI - Adaptador AC'
@@ -56,7 +56,7 @@ const Header = () =>{
                 <a href="https://www.thanoslu.com.br/cadastro">Entre ou Cadastre-se</a>
             </div>
 
-            <img src='./magalu2.PNG' align='left' />
+            <img src='https://lh3.googleusercontent.com/ILhbmcQzeZc2Ae29EP794oEU0yx35hKdWmFEMK-BxnpHOUOCcuaPOB7IzEPIb3Jg_iJl2g=s86' align='left' />
             
             <span className='header-title'>
                 ThanosLu Friday
@@ -160,3 +160,4 @@ const ContactContainer = () => {
 }
 
 //JSX -> HTML dentro do JS. Codigo html dentro da função do React
+//'./pcgamer.PNG'
